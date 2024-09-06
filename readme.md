@@ -9,3 +9,7 @@ primer commit
 
 ![alt text](image-2.png)
 segundo commit
+
+![alt text](image-3.png)
+
+Cambio a rama main y merge
