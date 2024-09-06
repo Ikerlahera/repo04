@@ -26,3 +26,4 @@ Mi primer ejercicio con ramas
 7. Resultado
 
 Esto es una prueba
+prueba2
