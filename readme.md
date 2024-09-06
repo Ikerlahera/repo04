@@ -27,3 +27,7 @@ Mi primer ejercicio con ramas
 
 Esto es una prueba
 prueba2
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
