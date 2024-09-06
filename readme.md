@@ -8,4 +8,4 @@ crear rama y cambiarte a esa rama
 primer commit
 
 ![alt text](image-2.png)
-segundo commit
+segundo commit.
